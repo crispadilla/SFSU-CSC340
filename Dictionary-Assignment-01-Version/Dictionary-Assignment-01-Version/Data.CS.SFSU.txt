@@ -1,0 +1,7 @@
+book|noun => A set of pages.|verb => To arrange something on a particular date.
+bookable|adjective => Can be ordered.
+bookbinder|noun => A person who fastens the pages of books.
+bookcase|noun => A piece of furniture with shelves.
+csc210|adjective => Comfortable with Objects and Classes.|adjective => Ready for CSC 220.|noun => Intro to Java.|verb => To learn Java.
+csc220|adjective => Ready to create complex data structures.|noun => Data Structures.|verb => To create data structures.
+csc340|adjective => C++ version of CSC210 + CSC220 + more.|noun => A CS upper division course.|noun => Many hours outside of class.
